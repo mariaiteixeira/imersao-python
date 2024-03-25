@@ -6,7 +6,7 @@ Projeto desenvolvido pela [Imersão Python](https://www.alura.com.br/imersao-pyt
 Durante cinco dias, um mergulho raso foi feito com o Google Sheets e o Python!
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
-- Uso da fórmula `VLOOKUP` (PROCV).
+- Uso das fórmulas `VLOOKUP` (PROCV) e `IF`.
 
 ## Tecnologias utilizadas neste projeto:
 <img height="20" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge">
